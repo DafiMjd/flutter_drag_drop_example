@@ -17,5 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 Changes : 
 1. Dropzone is invisible if file is uploaded
-2. Add mime & size constraint
-3. Add preview for video & file(pdf)
+2. Add clear uploaded file button
+3. Add mime & size constraint
+4. Add preview for video & file(pdf)
